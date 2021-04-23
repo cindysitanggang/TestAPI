@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_GetAllUserPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8ff3b79-47cf-4f12-8413-162f3386547b</testCaseGuid>
+</TestCaseEntity>
